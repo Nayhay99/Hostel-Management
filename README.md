@@ -3,7 +3,7 @@
 ***A system to manage the infrastructure and students of a hostel***
 
 
-* git clone https://github.com/bhavyaagg/Hostel-Management-DBMS-Project
+* git clone https://github.com/Nayhay99/Hostel-Management.git
 * cd Hostel-Management-DBMS-Project
 * npm install
 
